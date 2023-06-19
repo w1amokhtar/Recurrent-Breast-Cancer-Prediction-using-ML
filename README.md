@@ -12,13 +12,13 @@ OR
   Breast Cancer Wisconsin(Prognostic) dataset
 
 ## Models Used 
-  Support Vector Machine (SVM)
-  Naive Bayes 
-  Decision Tree 
-  Random Forest (Best Result)
+  - Support Vector Machine (SVM)
+  - Naive Bayes 
+  - Decision Tree 
+  - Random Forest (Best Result)
 
 
 ## Evaluation Metrics 
-  Accuracy 
-  Confusion Matrix 
+  - Accuracy 
+  - Confusion Matrix 
 
