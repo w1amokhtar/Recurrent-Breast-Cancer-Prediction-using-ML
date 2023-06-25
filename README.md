@@ -3,8 +3,10 @@ python code to find the best Machine Learning algorithm that can predict the rec
 
 ## Requirements 
   - Jupyter Notebook 
-  - Python 
-OR 
+  - Python
+    
+***OR***
+
   -Google Colab 
 
 
